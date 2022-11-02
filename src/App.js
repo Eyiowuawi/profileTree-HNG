@@ -15,8 +15,8 @@ function App() {
           <div className="img-div">
             <img src={profile__img} alt="avatar" id="profile__img" />
           </div>
-          <h3>Adeosun Toluwalase</h3>
-          <h1 id="slack">Adeosun</h1>
+          <h3>Toluwalase Adeosun</h3>
+          <h1 id="slack">Toluwalase Adeosun</h1>
         </div>
         <figure>
           <img src={Avatar} alt="share" id="share" />
@@ -50,7 +50,7 @@ function App() {
           Zuri Books
         </a>
         <a
-          href="https://books.zuri.team/python-for-beginners?ref_id=<Adeosun Toluwalase>"
+          href="https://books.zuri.team/python-for-beginners?ref_id=<Toluwalase Adeosun>"
           id="book__python"
           target="_blank"
           rel="noreferrer"
