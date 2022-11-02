@@ -45,16 +45,18 @@ function App() {
           id="books"
           target="_blank"
           rel="noreferrer"
-          title="This is where you find books about design and coding"
+          title="Find design and coding books here"
+          className="tooltip"
         >
           Zuri Books
         </a>
+
         <a
           href="https://books.zuri.team/python-for-beginners?ref_id=<Toluwalase Adeosun>"
           id="book__python"
           target="_blank"
           rel="noreferrer"
-          title="where you feature the book as if you were selling it"
+          title="Feature a book as if you were selling it"
         >
           Python Books
         </a>
@@ -63,7 +65,7 @@ function App() {
           id="pitch"
           target="_blank"
           rel="noreferrer"
-          title="where you pitch a service for doing background checks on coders"
+          title="Pitch a service for doing background checks on coders"
         >
           Background Check for Coders
         </a>
@@ -72,7 +74,7 @@ function App() {
           id="book__design"
           target="_blank"
           rel="noreferrer"
-          title="where you pitch the free design book offered by Zuri"
+          title="Pitch  free design book offered by Zuri"
         >
           Design Books
         </a>
